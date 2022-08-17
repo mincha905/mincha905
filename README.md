@@ -1,4 +1,4 @@
-<h2 align="center">mincha😉</h3>
+<h2 align="center">mincha😎</h3>
 <br>
 <h3 align="center">Studying📝</h3>
 <p align="center">
