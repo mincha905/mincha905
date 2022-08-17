@@ -1,4 +1,4 @@
-### mincha😉
+# mincha😉
 
 <h3 align="center">Studying📝</h3>
 <p align="center">
