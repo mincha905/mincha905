@@ -15,4 +15,4 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 </p>
 <br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mincha905&layout=compact)](https://github.com/mincha905/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mincha905&layout=compact)](https://github.com/mincha905/github-readme-stats) 
