@@ -13,6 +13,10 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-</p>
+</p><br><br><br>
+
+<div align=center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mincha905&layout=compact)](https://github.com/mincha905/github-readme-stats)
+
+</div>
